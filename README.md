@@ -57,4 +57,4 @@
 
 ### Who do I talk to? ###
 
-&copy; [Rizky Bagus Pangestu] - [PT GITS Indonesia](https://gits.co.id) 2019
+&copy; [Rizky Bagus Pangestu](https://id.linkedin.com/in/rizky-bagus-230b52192/) - [PT GITS Indonesia](https://gits.co.id) 2019
