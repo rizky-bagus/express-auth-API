@@ -57,4 +57,4 @@
 
 ### Who do I talk to? ###
 
-&copy; [Rakhmatullah Yoga Sutrisna](https://source.gits.id/rakhmatullahyoga) - [PT GITS Indonesia](https://gits.co.id) 2017
+&copy; [Rizky Bagus Pangestu] - [PT GITS Indonesia](https://gits.co.id) 2019
