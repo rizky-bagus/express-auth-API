@@ -11,13 +11,9 @@
     "node": "8.6.0",
     "npm": "5.3.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://source.gits.id/rakhmatullahyoga/template-services.git"
-  },
   "author": "PT. GITS Indonesia <info@gits.co.id>",
   "contributors": [
-    "Rakhmatullah Yoga Sutrisna <yoga@gits.co.id>"
+    "Rizky Bagus Pangestu<rizky.bagus@gits.id>"
   ],
   "license": "ISC",
   "homepage": "https:/www.gits.co.id",
