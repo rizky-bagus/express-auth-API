@@ -31,7 +31,7 @@
     "joi": "^13.1.2",
     "jsonwebtoken": "^8.1.1",
     "method-override": "^2.3.9",
-    "mongoose": "^4.13.11",
+    "mongoose": "^5.7.5",
     "mongoose-delete": "^0.4.0",
     "mongoose-paginate": "^5.0.3",
     "mongoose-unique-validator": "^1.0.5",
