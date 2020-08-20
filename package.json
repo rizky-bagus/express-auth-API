@@ -20,7 +20,7 @@
   "dependencies": {
     "async": "^2.6.0",
     "bad-words": "^1.6.1",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.17.2",
     "cors": "^2.8.3",
     "express": "latest",
