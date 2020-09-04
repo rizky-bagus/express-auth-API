@@ -46,7 +46,7 @@
     "passport-local": "^1.0.0",
     "randomstring": "^1.1.5",
     "request": "^2.85.0",
-    "sequelize": "^4.33.4",
+    "sequelize": "^5.15.1",
     "underscore": "^1.8.3",
     "validator": "^11.1.0",
     "winston": "^2.4.0"
